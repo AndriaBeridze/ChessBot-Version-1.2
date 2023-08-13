@@ -14,7 +14,7 @@ Welcome to the Chess Bot project, created by AndriaBeridze. This simple chess bo
 
 To use the Chess Bot:
 
-1. **Installation:** Navigate to the `ChessBot-Version-1.1/Chess/Chess/bin/Debug/Chess.exe` directory.
+1. **Installation:** Navigate to the `ChessBot-Version-1.2/Chess/Chess/bin/Debug/Chess.exe` directory.
 
 2. **Run the Bot:** Execute the bot to start a chess game against the AI opponent.
 
